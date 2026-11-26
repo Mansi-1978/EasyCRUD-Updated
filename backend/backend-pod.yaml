@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: backend
-      image: mansi1978/backend:latest
+      image: mansi1978/easycrud-jenkins:backend
       ports:
         - containerPort: 80
